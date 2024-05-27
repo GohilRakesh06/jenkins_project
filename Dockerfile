@@ -1,2 +1,2 @@
-FROM vimal13/apache-webserver-php
+FROM rakesh9711/webserver
 COPY index.html /var/www/html/index.html
